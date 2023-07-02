@@ -1,0 +1,6 @@
+djangorestframework
+pillow
+opencv-python
+facenet-pytorch
+torch
+tensorflow
